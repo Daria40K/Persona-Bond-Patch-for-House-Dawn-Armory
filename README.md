@@ -1,6 +1,6 @@
 # Persona Bond Patch for House Dawn Armory
 
-![](https://github.com/dave40k/Persona-Bond-Patch-for-House-Dawn-Armory/blob/main/About/Preview.png)
+![](https://github.com/Daria40K/Persona-Bond-Patch-for-House-Dawn-Armory/blob/main/About/Preview.png)
 
 ## Weapons Patched
 - LS-04 Mantis
